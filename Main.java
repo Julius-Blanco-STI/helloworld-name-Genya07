@@ -5,7 +5,7 @@ public class Main {
         
         String VarName = "Kurt";
         
-            System.out.println("Hello World " + VarName);
+    System.out.println("Hello World " + VarName);
     }
     
 }
