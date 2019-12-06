@@ -14,9 +14,7 @@ public class Main {
         int VarAge = Obj.nextInt();
     
         
-        System.out.println("Hi " + VarName +"!");
-        System.out.println("Your age is " + VarAge);
-        System.out.println("You live at" + VarAdd);
+        System.out.println("Hi " + VarName + ", Your age is " + VarAge + " and you live at " + VarAdd);
     
     }
     
