@@ -1,7 +1,6 @@
 package main;
 import java.util.*;
 public class Main {
-
     public static void main(String[] args) {
         Scanner Obj = new Scanner(System.in);
         System.out.println("Hello World");
